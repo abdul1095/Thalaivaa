@@ -1,1 +1,3 @@
 109 seats 
+push - from your branch to main branch ( git push origin mybranchname )  
+pull - from main branch to your branch ( git pull origin main )
