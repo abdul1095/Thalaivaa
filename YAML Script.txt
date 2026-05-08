@@ -12,3 +12,4 @@ jobs:
       deploy:
         steps:
         - script: echo my first deployment
+	- sripts: echo my second deployment 
